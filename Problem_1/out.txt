@@ -1,0 +1,11 @@
+FIRST NAME	LAST NAME	ID	HOMEWORK ADVERAGE	EXAM AVERAGE	FINAL COURSE ADVERAGE
+
+Jones		Shelia		3472	84.86			91.67		88.95
+Bain		Robert		1754	88.0			88.33		88.2
+Smith		Pamela		1888	91.0			84.33		87.0
+Hall		Sherry		7640	87.14			85.33		86.05
+Stokes		Jerry		2311	89.14			90.0		89.66
+Clayton		Randy		9077	89.43			83.67		85.97
+Chancellor	Janet		2341	91.57			88.0		89.43
+Adams		Mark		1764	94.71			96.0		95.48
+Hooten		Lamar		8734	87.43			87.33		87.37
